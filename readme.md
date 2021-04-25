@@ -1,4 +1,4 @@
- ![](C:\Users\silva\Desktop\NLW 5\podcastrnext\public\logo.svg)
+ ![](https://github.com/eipedrov/podcastrnext/blob/master/public/logo.svg)
 
 <img src="https://fhugoduarte.github.io/portfolio/images/rocketseat.png" style="zoom:25%;" />
 
@@ -30,7 +30,7 @@ As principais funcionalides do player são:
 
 Página Home 🏚
 
-![](C:\Users\silva\Desktop\NLW 5\podcastrnext\Banco de Imagens\Home.png)
+![](https://github.com/eipedrov/podcastrnext/blob/master/Banco%20de%20Imagens/Home.png)
 
 ##### Player vazio ⏹
 
