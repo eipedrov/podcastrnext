@@ -1,8 +1,11 @@
-<p align = "center" >
-<img src="https://github.com/eipedrov/podcastrnext/blob/master/public/logo.svg" />
+<p align = "center">
+  <img src="https://github.com/eipedrov/podcastrnext/blob/master/public/logo.svg" />
 </p>
 
-<img src="https://fhugoduarte.github.io/portfolio/images/rocketseat.png" style="zoom:25%;" />
+  <p aling = "center">
+  <img src="https://fhugoduarte.github.io/portfolio/images/rocketseat.png" />
+  </p>
+
 
 Projeto desenvolvido durante o 5° evento da **Next Level Week**, onde foi desenvolvido um aplicativo web voltado a podcast, utilizando as principais tecnologias do mercado atual de **Web Development**, como:
 
